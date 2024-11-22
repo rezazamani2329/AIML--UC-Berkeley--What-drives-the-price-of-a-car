@@ -8,12 +8,12 @@
 I explore a dataset from Kaggle, has 426K rows, to understand what factors affecting the price of a used car. Using different Machine Learning (ML) algorithms, I will say you what are the main drivers of the price of used cars. then you can pay attention to them as dealer or private to sell or buy. 
 
 # Business Understanding
-Using 17 factors, I will say which of them is important for price, how their proecess is affecting the price. Moreover, it is important to understand the strucrue of demand for used cars and in this project I will give you a clear suggestion to make decision about your portfolio of used cars.
+Using 17 factors, I will say which of them is important for price of used car, and how they affecting the price (positive or negative). 
+Moreover, it is important to understand the strucrue of demand for used cars and in this project I will give you a clear suggestion to make decision about your portfolio of used cars.
 
-If you are dealer or private and want to sell or buy used car, or if you are thinking which used car I can buy if I want to sell it again in the future it would be very easy for me. 
-In this project I will give you a clear perspective to make decision. 
+If you are dealer or private and want to sell or buy used car, or if you are thinking which used car I can buy if I want to sell it again in the future it would be very easy for me. In this project I will give you a clear perspective to make decision. 
 
-However all 18 factors do not have the same effect on price, and I will give you an advice to focus only main drivers of the price of a used car. I know you are familiar with some of them such as age, mileage, and model. I will give you more information to have better understanding from demand and supply sides fo the market of used cars. 
+However all 17 factors do not have the same effect on price, and I will give you an advice to focus only main drivers of the price of a used car. I know you are familiar with some of them such as age, mileage, and model. I will give you more information to have better understanding from demand and supply sides fo the market of used cars. 
 
 After applying the Machine Learning (ML) models, we will check the validity of the model to be sure that our model is wokring well and results are reliable. we will use different methods to be sure that our model has minimum error and maximum verification in mathcing with data and also in prediction of the price of used car and its drivers.
 
