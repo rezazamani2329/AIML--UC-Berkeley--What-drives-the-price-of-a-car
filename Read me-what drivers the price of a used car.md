@@ -105,7 +105,7 @@ With different features and their interaction with each other (polynomila), we s
 Age, Odometer, Manufacturer, Transmissin, Condition, Cylinders, Fuel, Color, Type, and Drive. 
 
 
-##  Second : How factor affecting used car price
+##  Second : How factor affecting the price of a used car 
  1- Age: as age goes up, the price of used car goes down. age is an important factor as correlation between price and age is -30%
 
  2- Odometer:as Odometer goes up, the price of used car goes down too. Odometer is also an important factor and its correlation with price is also  aorund -30%
