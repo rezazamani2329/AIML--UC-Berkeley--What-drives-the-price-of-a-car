@@ -61,7 +61,7 @@ After applying the Machine Learning (ML) models, we will check the validity of t
 9-3- correlation between year and odometer (milage): 28%
 
 # Modeling
-1- we use four models: linear regression, Lasso regression, Ridge regression,  SFS (Seaquential Feature Selection).
+1- we use four models: ### linear regression, Lasso regression, Ridge regression,  SFS (Seaquential Feature Selection).
 
 2- we apply polynomial also in these models. 
 
@@ -80,7 +80,7 @@ After applying the Machine Learning (ML) models, we will check the validity of t
 
 'Test_MAE',  'Test_MSE', 'Test_RMSE' and 'Test_Score
 
-2- Best model: after modeling we need to find the best model it is Ridge Regression 
+2- ### Best model: after modeling we need to find the best model it is Ridge Regression 
 
 3- Accuracy: model can predict price with traing data set with %86 accuract, and with test dat set with %77, overal it is around %80 and is a really good accuracy. 
 
