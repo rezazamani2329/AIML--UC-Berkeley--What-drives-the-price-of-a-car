@@ -94,8 +94,8 @@ after modeling we need to find the best model it is:
 ##### Ridge Regression 
 
 ### 3- Accuracy: 
-##### 3-1- Traing data set: %86 
-##### 3-2- Test dat set: %77.  
+##### 3-1- Traing data set: 86%
+##### 3-2- Test dat set: 77%.  
 
  
 
