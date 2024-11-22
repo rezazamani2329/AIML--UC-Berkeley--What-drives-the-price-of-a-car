@@ -92,55 +92,76 @@ after modeling we need to find the best model it is Ridge Regression
 ### 3- Accuracy: 
 model can predict price with traing data set with %86 accuracy, and with test dat set with %77, overal it is around %80 and is a really good accuracy. 
 
-4- with different features and their interaction with each other (polynomila), we study the main drivers of price of used cars, our main finding are as followings. 
+ 
 
 # Deployment
+
+With different features and their interaction with each other (polynomila), we study the main drivers of price of used cars, our main finding are as followings:
 
 ### First : List of factors affecting the price of used cars: 
 Age, Odometer, Manufacturer, Transmissin, Condition, Cylinders, Fuel, Color, Type, and Drive. 
 
 ###  Second : How factor affecting used car price
-1- Age: as age goes up, the price of used car goes down. age is an important factor as correlation between price and age is -30%
+#### 1- Age: 
+as age goes up, the price of used car goes down. age is an important factor as correlation between price and age is -30%
 
-2- Odometer: as Odometer goes up, the price of used car goes down too. Odometer is also an important factor and its correlation with price is also  aorund -30%
+#### 2- Odometer:
+as Odometer goes up, the price of used car goes down too. Odometer is also an important factor and its correlation with price is also  aorund -30%
 
-3- Manufacturer:
+#### 3- Manufacturer:
 3-1- Best companeis (used car for sale): Toyota, Honda, Tesla, and Ford
 3-2- Worst companies (used carfor slae): Buick and Cheverolet.
 
-4- Transmissin: manual transmission has negative effect on pirce, then it would be hard to be sold.
+#### 4- Transmissin:
+manual transmission has negative effect on pirce, then it would be hard to be sold.
 
-5- Condition: used cars with: good condition or like new condition have the highest level to be sold.
+#### 5- Condition: 
+used cars with: good condition or like new condition have the highest level to be sold.
 
-6- Cylinders: 4, 6, and 8 Cylinders cars have better chance to be sold.
+#### 6- Cylinders:
+4, 6, and 8 Cylinders cars have better chance to be sold.
 
-7- Feul: fuel gas has negative effect on price, and cars with fuel gas are hard to sell.
+#### 7- Feul: 
+fuel gas has negative effect on price, and cars with fuel gas are hard to sell.
 
-8- Color: red and green cars are hard to sell and have negative effect on price.
+#### 8- Color: 
+red and green cars are hard to sell and have negative effect on price.
 
-9- Drive: drive_fwd is hard to sell, while drive_rwd has good condition for sell.
+#### 9- Drive:
+drive_fwd is hard to sell, while drive_rwd has good condition for sell.
 
 ### Third : 11 clear suggestions (for buying and seeling used cars)
 
-1- Price: focus on cars their prices is between 5000 to 25000 dollars , they have high demand.
+#### 1- Price: 
+focus on cars their prices is between 5000 to 25000 dollars , they have high demand.
 
-2- Year (age): Focus on cars with age <= 15 years , they have high demand.
+#### 2- Year (age):
+Focus on cars with age <= 15 years , they have high demand.
 
-3- Odometer: cars have 500,000 <=odometer =< 150,000 have high demand. Not odometer >= 250,000 , as they have very low demand, get aside from them
+#### 3- Odometer:
+cars have 500,000 <=odometer =< 150,000 have high demand. Not odometer >= 250,000 , as they have very low demand, get aside from them
 
-4- Brand: focus on Toyota, Honda, Tesla, and Ford and get aside from uick or Cheverolet.
+#### 4- Brand:
+focus on Toyota, Honda, Tesla, and Ford and get aside from uick or Cheverolet.
 
-5- Condition: focus on car with these two conditions: good condition and like new conditions.
+#### 5- Condition:
+focus on car with these two conditions: good condition and like new conditions.
 
-6- Cylinders: Foucs on 4, 6, and 8 cylinders , they have maximum demand.
+#### 6- Cylinders:
+Foucs on 4, 6, and 8 cylinders , they have maximum demand.
 
-7- Transmission: not manual transmission , as it has negative effect on pirce.
+#### 7- Transmission: 
+not manual transmission , as it has negative effect on pirce.
 
-8- Color: not red or green cars , they have low demand, get aside from them.
+#### 8- Color:
+not red or green cars , they have low demand, get aside from them.
 
-9- Feul: not feul gas, as it has low demand, get aside from them.
+#### 9- Feul: 
+not feul gas, as it has low demand, get aside from them.
 
-10- Drive: not "drive_fwd" cars, as they have low demand.
+#### 10- Drive: 
+not "drive_fwd" cars, as they have low demand.
 
-11- Type: not "van" cars, do not enter them in your portfolio.
+#### 11- Type:
+not "van" cars, do not enter them in your portfolio.
 
