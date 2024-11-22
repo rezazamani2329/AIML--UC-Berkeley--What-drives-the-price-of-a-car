@@ -61,16 +61,20 @@ After applying the Machine Learning (ML) models, we will check the validity of t
 9-3- correlation between year and odometer (milage): 28%
 
 # Modeling
-1- we use four models: 
-### linear regression, Lasso regression, Ridge regression,  SFS (Seaquential Feature Selection).
+### 1-  models: 
+linear regression, Lasso regression, Ridge regression,  SFS (Seaquential Feature Selection).
 
-2- we apply polynomial also in these models. 
+### 2- Polynomial:
+we apply polynomial also in these models. 
 
-3- we use GridSearchCV for Ridge model.
+### 3- GridSearchCV:
+we use GridSearchCV for Ridge model.
 
-4- we split dataset into two data sets: trainign and test datasets. 
+### 4-  split dataset:
+we split the data sets in to trainign (80%) and test datasets (20%). 
 
-4- at the begining of modeling we standardized all data to have reliable results, then scale of data is not important. 
+### 5 - Standardization: 
+at the begining of modeling we standardized all data to have reliable results, then scale of data is not important. 
 
 
 
