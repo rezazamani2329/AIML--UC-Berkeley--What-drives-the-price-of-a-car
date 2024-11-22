@@ -2,6 +2,7 @@
 
 # Reza Zamani 
 
+
 # OVERVIEW
 I explore a dataset from Kaggle, has 426K rows, to understand what factors affecting the price of a used car. Using different Machine Learning (ML) algorithms, I will say you what are the main drivers of the price of used cars. then you can pay attention to them as dealer or private to sell or buy. 
 
