@@ -22,6 +22,7 @@ After applying the Machine Learning (ML) models, we will check the validity of t
 2-  target variable is price 
 
 3- factros (features) we have in our dataset : region, id, year, manufacturer (brand), model, condition,cylinders, state
+
                                                fuel, odometer, title_status, transmission, VIN, drive, size, type, paint_color  
                                                
 4- Missing data: some features have missing data, we check their relative size and make decision about them to remover
@@ -29,23 +30,34 @@ After applying the Machine Learning (ML) models, we will check the validity of t
 5- Outliders: some data are outliers and they can affect negatively our results and analysis, using different plot and also some statistics approahces, we manage them
 
 6- Price: 
+
 6-1- range of price:  raw data shows that price fluctutes from 0 to more than 3 million dollars. 
+
 6-2- outlier in pirce: it is clear that some prices are not reasonable, and we should make decision. we see them as outlier, and remover them from analysis. 
+
 6-3- price between 5000 to 25000 covers most part of used cars, and used car with price more than 50000 dollars have very low demand. 
 
 7- year: 
+
 7-1- range of year: from 1900.
+
 7-2- most demand for used cars comes back to cars with age <= 15 years. 
 
 8- odomerter: 
 8-1- range of odometer: odomter from 0 to around one million mile.
+
 8-2- outliers: some data for odometers are outliers and we remove them.
+
 8-3- cars have odometers between 50000 to 150000 have the highest demand. 
+
 8- other features: we also check the distribution of other factors to be familiar with data and their behaviour. visualization of these factors are interesting and give us really important information. 
 
 9- correlation:
+
 9-1- correlation between price and year (age) : about  34 % (-34%,)
+
 9-2- correlation between price and odometer (milage): around -45% 
+
 9-3- correlation between year and odometer (milage): 28%
 
 # Modeling
