@@ -70,7 +70,7 @@ we apply polynomial also in these models.
 ### 3- GridSearchCV:
 we use GridSearchCV for Ridge model.
 
-### 4-  split dataset:
+### 4-  Split Dataset:
 we split the data sets in to trainign (80%) and test datasets (20%). 
 
 ### 5 - Standardization: 
@@ -103,33 +103,24 @@ Age, Odometer, Manufacturer, Transmissin, Condition, Cylinders, Fuel, Color, Typ
 
 
 ##  Second : How factor affecting used car price
-#### 1- Age: 
-as age goes up, the price of used car goes down. age is an important factor as correlation between price and age is -30%
+ 1- Age: as age goes up, the price of used car goes down. age is an important factor as correlation between price and age is -30%
 
-#### 2- Odometer:
-as Odometer goes up, the price of used car goes down too. Odometer is also an important factor and its correlation with price is also  aorund -30%
+ 2- Odometer:as Odometer goes up, the price of used car goes down too. Odometer is also an important factor and its correlation with price is also  aorund -30%
 
-#### 3- Manufacturer:
-3-1- Best companeis (used car for sale): Toyota, Honda, Tesla, and Ford
+ 3- Manufacturer:3-1- Best companeis (used car for sale): Toyota, Honda, Tesla, and Ford
 3-2- Worst companies (used carfor slae): Buick and Cheverolet.
 
-#### 4- Transmissin:
-manual transmission has negative effect on pirce, then it would be hard to be sold.
+ 4- Transmissin: manual transmission has negative effect on pirce, then it would be hard to be sold.
 
-#### 5- Condition: 
-used cars with: good condition or like new condition have the highest level to be sold.
+ 5- Condition: used cars with: good condition or like new condition have the highest level to be sold.
 
-#### 6- Cylinders:
-4, 6, and 8 Cylinders cars have better chance to be sold.
+ 6- Cylinders: 4, 6, and 8 Cylinders cars have better chance to be sold.
 
-#### 7- Feul: 
-fuel gas has negative effect on price, and cars with fuel gas are hard to sell.
+ 7- Feul: fuel gas has negative effect on price, and cars with fuel gas are hard to sell.
 
-#### 8- Color: 
-red and green cars are hard to sell and have negative effect on price.
+ 8- Color: red and green cars are hard to sell and have negative effect on price.
 
-#### 9- Drive:
-drive_fwd is hard to sell, while drive_rwd has good condition for sell.
+ 9- Drive: drive_fwd is hard to sell, while drive_rwd has good condition for sell.
 
 
 ## Third : 11 clear suggestions (for buying and seeling used cars)
