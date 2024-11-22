@@ -98,10 +98,11 @@ model can predict price with traing data set with %86 accuracy, and with test da
 
 With different features and their interaction with each other (polynomila), we study the main drivers of price of used cars, our main finding are as followings:
 
-### First : List of factors affecting the price of used cars: 
+## First : List of factors affecting the price of used cars: 
 Age, Odometer, Manufacturer, Transmissin, Condition, Cylinders, Fuel, Color, Type, and Drive. 
 
-###  Second : How factor affecting used car price
+
+##  Second : How factor affecting used car price
 #### 1- Age: 
 as age goes up, the price of used car goes down. age is an important factor as correlation between price and age is -30%
 
@@ -130,7 +131,8 @@ red and green cars are hard to sell and have negative effect on price.
 #### 9- Drive:
 drive_fwd is hard to sell, while drive_rwd has good condition for sell.
 
-### Third : 11 clear suggestions (for buying and seeling used cars)
+
+## Third : 11 clear suggestions (for buying and seeling used cars)
 
 #### 1- Price: 
 focus on cars their prices is between 5000 to 25000 dollars , they have high demand.
