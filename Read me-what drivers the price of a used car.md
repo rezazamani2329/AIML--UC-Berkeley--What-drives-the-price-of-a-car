@@ -62,10 +62,10 @@ After applying the Machine Learning (ML) models, we will check the validity of t
 
 # Modeling
 ### 1-  Models: 
-#### 1-1- linear regression, 
-#### 1-2- Lasso regression,
-#### 1-3- Ridge regression, 
-#### 1-4- SFS (Seaquential Feature Selection).
+##### 1-1- linear regression, 
+##### 1-2- Lasso regression,
+##### 1-3- Ridge regression, 
+##### 1-4- SFS (Seaquential Feature Selection).
 
 ### 2- Polynomial:
 we apply polynomial also in these models. 
