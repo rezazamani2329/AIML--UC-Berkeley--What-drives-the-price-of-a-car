@@ -86,10 +86,9 @@ After applying the Machine Learning (ML) models, we will check the validity of t
 4- with different features and their interaction with each other (polynomila), we study the main drivers of price of used cars, our main finding are as followings. 
 
 # Deployment
+
 # 1- First Part: List of factors affecting the price of used cars: 
-Age, Odometer,
-Manufacturer, Transmissin, Condition,
-Cylinders, Fuel, Color and Drive. 
+Age, Odometer, Manufacturer, Transmissin, Condition, Cylinders, Fuel, Color, Type, and Drive. 
 
 # 2- Second Part: How factor affecting used car price
 1- Age: as age goes up, the price of used car goes down. age is an important factor as correlation between price and age is -30%
