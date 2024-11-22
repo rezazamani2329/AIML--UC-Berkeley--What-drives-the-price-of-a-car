@@ -22,7 +22,6 @@ After applying the Machine Learning (ML) models, we will check the validity of t
 2-  target variable is price 
 
 3- factros (features) we have in our dataset : region, id, year, manufacturer (brand), model, condition,cylinders, state
-
                                                fuel, odometer, title_status, transmission, VIN, drive, size, type, paint_color  
                                                
 4- Missing data: some features have missing data, we check their relative size and make decision about them to remover
@@ -72,7 +71,9 @@ After applying the Machine Learning (ML) models, we will check the validity of t
 4- at the begining of modeling we standardized all data to have reliable results, then scale of data is not important. 
 
 5- aftler applying each model, we extract MAE, MSE, RMSE, and R2 (or Score) for both traing and test datasets, then we have all following critreria for each model:
+
 'Train_MAE', 'Train_MSE', 'Train_RMSE', and 'Train_Score'
+
 'Test_MAE',  'Test_MSE', 'Test_RMSE' and 'Test_Score
 
 # Evaluation
