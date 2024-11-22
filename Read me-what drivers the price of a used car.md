@@ -85,15 +85,17 @@ at the begining of modeling we standardized all data to have reliable results, t
 ### 1- Criteria for evaluation: 
 aftler applying each model, we extract MAE, MSE, RMSE, and R2 (or Score) for both traing and test datasets, then we have all following critreria for each model:
 
-'Train_MAE', 'Train_MSE', 'Train_RMSE', and 'Train_Score'
+#####Train_MAE', 'Train_MSE', 'Train_RMSE', and 'Train_Score'
 
-'Test_MAE',  'Test_MSE', 'Test_RMSE' and 'Test_Score
+#####'Test_MAE',  'Test_MSE', 'Test_RMSE' and 'Test_Score
 
 ### 2- Best model: 
-after modeling we need to find the best model it is Ridge Regression 
+after modeling we need to find the best model it is:
+##### Ridge Regression 
 
 ### 3- Accuracy: 
-model can predict price with traing data set with %86 accuracy, and with test dat set with %77, overal it is around %80 and is a really good accuracy. 
+#####3-1- Traing data set: %86 
+#####3-2- Test dat set: %77.  
 
  
 
