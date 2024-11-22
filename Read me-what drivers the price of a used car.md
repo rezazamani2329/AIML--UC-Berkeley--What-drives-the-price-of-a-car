@@ -61,7 +61,7 @@ After applying the Machine Learning (ML) models, we will check the validity of t
 9-3- correlation between year and odometer (milage): 28%
 
 # Modeling
-### 1-  models: 
+### 1-  Models: 
 linear regression, Lasso regression, Ridge regression,  SFS (Seaquential Feature Selection).
 
 ### 2- Polynomial:
