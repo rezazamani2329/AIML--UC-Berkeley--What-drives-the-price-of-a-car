@@ -70,18 +70,20 @@ After applying the Machine Learning (ML) models, we will check the validity of t
 
 4- at the begining of modeling we standardized all data to have reliable results, then scale of data is not important. 
 
-5- aftler applying each model, we extract MAE, MSE, RMSE, and R2 (or Score) for both traing and test datasets, then we have all following critreria for each model:
+
+
+# Evaluation
+1- Criterias for evaluation: aftler applying each model, we extract MAE, MSE, RMSE, and R2 (or Score) for both traing and test datasets, then we have all following critreria for each model:
 
 'Train_MAE', 'Train_MSE', 'Train_RMSE', and 'Train_Score'
 
 'Test_MAE',  'Test_MSE', 'Test_RMSE' and 'Test_Score
 
-# Evaluation
-1- Best model: after modeling we need to find the best model it is Ridge Regression 
+2- Best model: after modeling we need to find the best model it is Ridge Regression 
 
-2- Accuracy: model can predict price with traing data set with %86 accuract, and with test dat set with %77, overal it is around %80 and is a really good accuracy. 
+3- Accuracy: model can predict price with traing data set with %86 accuract, and with test dat set with %77, overal it is around %80 and is a really good accuracy. 
 
-3- with different features and their interaction with each other (polynomila), we study the main drivers of price of used cars, our main finding are as followings. 
+4- with different features and their interaction with each other (polynomila), we study the main drivers of price of used cars, our main finding are as followings. 
 
 # Deployment
 # 1- First Part: List of factors affecting the price of used cars: 
@@ -111,6 +113,7 @@ Cylinders, Fuel, Color and Drive.
 9- Drive: drive_fwd is hard to sell, while drive_rwd has good condition for sell.
 
 # Third Part: 11 clear suggestions (for buying and seeling used cars)
+
 1- Price: focus on cars their prices is between 5000 to 25000 dollars , they have high demand.
 
 2- Year (age): Focus on cars with age <= 15 years , they have high demand.
